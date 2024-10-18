@@ -1,6 +1,8 @@
-# 🏂 Joe Irudayaraj 
+# 🏂 Joe Irudayaraj ![](https://komarev.com/ghpvc/?username=joe-irudayaraj&abbreviated=true)
 
 **`I am Senior Full Stack Developer,Leader,Mentor with 10+ years of experience primarily in SpringBoot Java Full Stack in backend and frontend expertise`**
+
+
 
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/joe-irudayaraj/" rel="nofollow noreferrer">
     <img src="https://i.sstatic.net/gVE0j.png" alt="linkedin"> LinkedIn
