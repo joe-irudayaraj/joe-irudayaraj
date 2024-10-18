@@ -1,6 +1,6 @@
 # 🏂 Joe Irudayaraj 
 
-**`I am Senior Full Stack Developer,Leader,Mentor with 10+ years of experience`**
+**`I am Senior Full Stack Developer,Leader,Mentor with 10+ years of experience primarily in SpringBoot Java Stack,Angular Full Stack,Mule, BackEnd API development`**
 
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/joe-irudayaraj/" rel="nofollow noreferrer">
     <img src="https://i.sstatic.net/gVE0j.png" alt="linkedin"> LinkedIn
